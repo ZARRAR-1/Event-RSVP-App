@@ -1,4 +1,5 @@
 # Event-RSVP-App
+A paper-less solution to invite and celebrate your special moments with your loved ones. Used firebase auth and cloud firestore.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/6188fc9a-e6b8-4634-a87a-a82ce9e096fd)
